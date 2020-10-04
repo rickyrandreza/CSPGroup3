@@ -118,6 +118,7 @@ INSERT INTO Employees
 VALUES('Rodriguez', 'Caesar', 'Manager', '2012-01-21','1983-02-11','101CR','CaesaR','325-298-567','456 Oak street', 'Abilene' ,'Tx','79601'),
 		('Mallet', 'Sarah', 'Manager', '2013-10-05','1981-04-18','102SM','SaraM','421-232-012','329 Friars street', 'Abilene' ,'Tx','79602');
 		('Lee', 'Bobby', 'Clerk', '2014-05-10','1988-02-14','103BL','BobL','241-222-312','202 Chantecleers street', 'Abilene' ,'Tx','79602');
+		('Perkins', 'Brad', 'Clerk', '2018-07-15','1989-04-20','104BP','BradP','324-723-612','1434 Pines street', 'Abilene' ,'Tx','79602');
 
 
 --Below are sample records for each field in the Invoice Table
